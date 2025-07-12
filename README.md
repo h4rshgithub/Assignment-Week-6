@@ -4,7 +4,6 @@
 A simple REST API built with **Node.js**, **Express**, and **MongoDB** to manage users. Supports full CRUD operations.
 
 ---
-
 ## 📁 Folder Structure
 
 ├── models/
